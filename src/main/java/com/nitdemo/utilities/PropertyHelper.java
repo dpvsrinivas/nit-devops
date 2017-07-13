@@ -1,4 +1,4 @@
-package com.edurekademo.utilities;
+package com.nitdemo.utilities;
 
 import java.util.Enumeration;
 import java.util.HashMap;
